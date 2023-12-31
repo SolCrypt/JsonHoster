@@ -1,13 +1,10 @@
 {
   "name": "Year of Solana",
   "symbol": "SOL2024",
-  "description": "Year of Solana - Celebrate 2024 which will be wonderful for Solana. Purely a Memetoken with safe tokenomics - Not a security. Telegram Community Driven : https://t.me/+f7choXWdYVYwNzMx ",
+  "description": "Year of Solana - Celebrate 2024 which will be wonderful for Solana. Purely a Memetoken with safe tokenomics - Not a security. 100% Community Driven",
   "image": "https://raw.githubusercontent.com/SolCrypt/JsonHoster/main/SOL2024.png",
   "tags": [
         "community-token",
         "meme-token"
-      ],
-      "extensions": {
-        "telegram": "https://t.me/+f7choXWdYVYwNzMx"
-      }
+      ]
 }
