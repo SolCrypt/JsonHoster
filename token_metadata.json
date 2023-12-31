@@ -1,6 +1,13 @@
-    {
-      "address": "5YBiLKNnxkuZapFHSUkHrrvV5a9hoYvHaPmRR2vBAYmC",
-      "symbol": "$DEVTEST",
-      "name": "DEV is Testing",
-      "decimals": 9
-    }
+{
+  "name": "<TOKEN_NAME>",
+  "symbol": "<TOKEN_SYMBOL>",
+  "description": "<TOKEN_NAME> - Purely a Memetoken with safe tokenomics - Not a security. Telegram Community Driven : https://t.me/<TOKEN_SYMBOL> ",
+  "image": "https://raw.githubusercontent.com/SolCrypt/JsonHoster/main/<TOKEN_SYMBOL>.png",
+  "tags": [
+        "community-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/<TOKEN_SYMBOL>"
+      }
+}
